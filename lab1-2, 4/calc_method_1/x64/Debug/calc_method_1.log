@@ -1,0 +1,154 @@
+﻿  matrix.cpp
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(146,1): warning C4305: инициализация: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(145): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> matrix<T>::get_decision_simple_iteration(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(6): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "matrix<float>"
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(233,1): warning C4305: инициализация: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(232): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> matrix<T>::get_decision_zeid(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(328,1): warning C4305: инициализация: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(327): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> matrix<T>::get_eigenvalues(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(363,1): warning C4305: инициализация: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(362): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<T,std::allocator<T>>,std::allocator<std::vector<T,std::allocator<T>>>> matrix<T>::get_eigenvectors(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(369,1): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(393,1): warning C4305: инициализация: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(392): message : во время компиляции функции-члена класс шаблон "std::pair<std::vector<std::vector<T,std::allocator<T>>,std::allocator<std::vector<T,std::allocator<T>>>>,std::vector<T,std::allocator<T>>> matrix<T>::relay_algorithm(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(398,1): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(406,1): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(532,31): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(522): message : во время компиляции функции-члена класс шаблон "matrix<float> matrix<float>::get_hesinberg_matrix(void)"
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(330): message : выполняется компиляция ссылки на экземпляр шаблон функции "matrix<float> matrix<float>::get_hesinberg_matrix(void)"
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(533,31): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(534,31): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(535,32): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(557,13): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(545): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<T,std::allocator<T>>,std::allocator<std::vector<T,std::allocator<T>>>> matrix<T>::get_special_zeid_matrix(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(561,12): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(749,20): warning C4244: *=: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(745): message : во время компиляции функции-члена класс шаблон "matrix<float> matrix<float>::operator *(double)"
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(160): message : выполняется компиляция ссылки на экземпляр шаблон функции "matrix<float> matrix<float>::operator *(double)"
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(844,1): warning C4305: +=: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(841): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> matrix<T>::get_outraged_decision(void)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(855,1): warning C4305: =: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(852): message : во время компиляции функции-члена класс шаблон "T matrix<T>::get_down_est(std::string)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(931,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(930): message : во время компиляции функции-члена класс шаблон "vec<T>::vec(const std::vector<T,std::allocator<T>> &)"
+          with
+          [
+              T=double
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(172): message : выполняется компиляция ссылки на экземпляр шаблон функции "vec<T>::vec(const std::vector<T,std::allocator<T>> &)"
+          with
+          [
+              T=double
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(149): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "vec<T>"
+          with
+          [
+              T=double
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(145): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> matrix<T>::get_decision_simple_iteration(void)"
+          with
+          [
+              T=double
+          ]
+C:\Users\Артем\source\repos\calc_method_1\calc_method_1\matrix.cpp(5): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "matrix<double>"
+  calc_method_1.vcxproj -> C:\Users\Артем\source\repos\calc_method_1\x64\Debug\calc_method_1.exe
